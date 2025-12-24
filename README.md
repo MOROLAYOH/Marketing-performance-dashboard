@@ -23,3 +23,16 @@ To analyze marketing campaign performance, user engagement, and ROI across multi
 ‎
 4. ‎Ensured that filters (calendar slicer for Jan–Dec 2021) reflect accurate metrics
 
+## Analysis
+- ‎ROI $1.00M 
+- ‎Average Acquisition Cost $12.50k
+- ‎Average Conversion Rate 8%
+- ‎Impressions 1101.46M 
+- ‎Clicks 109.95M 
+- ‎Mom change vs previous month 
+- ‎Weekly engagement 
+‎
+###DASHBOARD
+
+#### Slicer: Date Table 
+- ‎Filters the data for a specific month.
