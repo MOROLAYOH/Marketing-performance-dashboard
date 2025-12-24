@@ -36,3 +36,17 @@ To analyze marketing campaign performance, user engagement, and ROI across multi
 
 #### Slicer: Date Table 
 - ‎Filters the data for a specific month.
+
+## Findings
+
+- Gender Distribution: Male and female engagement is nearly equal.
+- ‎Location Trends : Engagement is evenly spread across location with minimal difference
+- Age Group: The 25–34 segment dominates engagement (40% of clicks).
+- Interest Categories: Engagement is evenly spread across interests  with minimal difference.
+- Campaign ROI: Email and Google Ads perform slightly better than Facebook/Instagram, but differences are marginal of $2k–$3k
+
+## Recommendations 
+- ‎Focus on 25–34 age group
+
+## Conclusion 
+Marketing campaigns in 2021 performed well, generating strong ROI and consistent engagement across channels. The 25–34 age respond well to the ads.
