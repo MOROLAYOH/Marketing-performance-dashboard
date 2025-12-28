@@ -32,7 +32,8 @@ To analyze marketing campaign performance, user engagement, and ROI across multi
 - ‎Mom change vs previous month 
 - ‎Weekly engagement 
 ‎
-###DASHBOARD
+<img width="903" height="499" alt="17669176519361477234460091449355" src="https://github.com/user-attachments/assets/b020e385-5f23-4bd1-ada8-73b6c5e2d43c" />
+
 
 **Slicer: Date Table**
 - ‎Filters the data for a specific month.
