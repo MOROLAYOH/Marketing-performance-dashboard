@@ -1,11 +1,11 @@
 # Marketing-performance-dashboard
 
-## Project Overview
+### Project Overview
 To analyze marketing campaign performance, user engagement, and ROI across multiple channels in order to optimize acquisition strategies, increase conversions, and improve overall marketing efficiency.
 
-## Data Source 
+### Data Source 
 
-## Data Cleaning and transformation process
+### Data Cleaning and transformation process
 - checked for Missing Values, duplicate value and make adjustments where necessary 
 - ‎Data Standardization:
   
@@ -23,7 +23,7 @@ To analyze marketing campaign performance, user engagement, and ROI across multi
 ‎
 4. ‎Ensured that filters (calendar slicer for Jan–Dec 2021) reflect accurate metrics
 
-## Analysis
+### Analysis
 - ‎ROI $1.00M 
 - ‎Average Acquisition Cost $12.50k
 - ‎Average Conversion Rate 8%
@@ -34,10 +34,10 @@ To analyze marketing campaign performance, user engagement, and ROI across multi
 ‎
 ###DASHBOARD
 
-#### Slicer: Date Table 
+**Slicer: Date Table**
 - ‎Filters the data for a specific month.
 
-## Findings
+### Findings
 
 - Gender Distribution: Male and female engagement is nearly equal.
 - ‎Location Trends : Engagement is evenly spread across location with minimal difference
@@ -45,8 +45,8 @@ To analyze marketing campaign performance, user engagement, and ROI across multi
 - Interest Categories: Engagement is evenly spread across interests  with minimal difference.
 - Campaign ROI: Email and Google Ads perform slightly better than Facebook/Instagram, but differences are marginal of $2k–$3k
 
-## Recommendations 
-- ‎Focus on 25–34 age group
+### Recommendations 
+- ‎Focus targeting on 25–34 age group
 
-## Conclusion 
+### Conclusion 
 Marketing campaigns in 2021 performed well, generating strong ROI and consistent engagement across channels. The 25–34 age respond well to the ads.
