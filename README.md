@@ -3,7 +3,7 @@
 - [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
 - [Tool Used](#Tool-Used)
-- [Data Cleaning and transformation process](#Data-Cleaning-and-transformation-process)
+- [Data Cleaning And Transformation Process](#Data-Cleaning-and-transformation-process)
 - [Analysis](#Analysis)
 - [Findings](#Findings)
 - [Recommendations](#Recommendations)
@@ -17,7 +17,7 @@ To analyze marketing campaign performance, user engagement, and ROI across multi
 ### Tool Used
 - Microsoft Excel 
 
-### Data Cleaning and transformation process
+### Data Cleaning And Transformation Process
 - checked for Missing Values, duplicate value and make adjustments where necessary 
 - ‎Data Standardization:
   
@@ -44,7 +44,8 @@ To analyze marketing campaign performance, user engagement, and ROI across multi
 - ‎Mom change vs previous month 
 - ‎Weekly engagement 
 ‎
-<img width="903" height="499" alt="17669176519361477234460091449355" src="https://github.com/user-attachments/assets/b020e385-5f23-4bd1-ada8-73b6c5e2d43c" />
+<img width="907" height="505" alt="17671367428385167968173456078448" src="https://github.com/user-attachments/assets/b2cd21bb-c358-41bd-9513-33cab1ea4d65" />
+
 
 
 **Slicer: Date Table**
