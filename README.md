@@ -8,7 +8,7 @@
 - [Findings](#Findings)
 - [Recommendations](#Recommendations)
 - [Conclusion](#Conclusion)
-- 
+  
 ### Project Overview
 To analyze marketing campaign performance, user engagement, and ROI across multiple channels in order to optimize acquisition strategies, increase conversions, and improve overall marketing efficiency.
 
