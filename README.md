@@ -1,9 +1,21 @@
 # Marketing-performance-dashboard
-
+## Table of content
+- [Project Overview](#Project-Overview)
+- [Data Source](#Data-Source)
+- [Tools Used](#Tools-Used)
+- [Data Cleaning and transformation process](#Data-Cleaning-and-transformation-process)
+- [Analysis](#Analysis)
+- [Findings](#Findings)
+- [Recommendations](#Recommendations)
+- [Conclusion](#Conclusion)
+- 
 ### Project Overview
 To analyze marketing campaign performance, user engagement, and ROI across multiple channels in order to optimize acquisition strategies, increase conversions, and improve overall marketing efficiency.
 
 ### Data Source 
+
+### Tools Used
+- Microsoft Excel 
 
 ### Data Cleaning and transformation process
 - checked for Missing Values, duplicate value and make adjustments where necessary 
