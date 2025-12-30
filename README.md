@@ -2,7 +2,7 @@
 ## Table of content
 - [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
-- [Tools Used](#Tools-Used)
+- [Tool Used](#Tool-Used)
 - [Data Cleaning and transformation process](#Data-Cleaning-and-transformation-process)
 - [Analysis](#Analysis)
 - [Findings](#Findings)
@@ -13,8 +13,8 @@
 To analyze marketing campaign performance, user engagement, and ROI across multiple channels in order to optimize acquisition strategies, increase conversions, and improve overall marketing efficiency.
 
 ### Data Source 
-
-### Tools Used
+- Marketing data
+### Tool Used
 - Microsoft Excel 
 
 ### Data Cleaning and transformation process
