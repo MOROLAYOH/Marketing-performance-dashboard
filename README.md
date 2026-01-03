@@ -47,6 +47,7 @@ To analyze marketing campaign performance, user engagement, and ROI across multi
 <img width="907" height="505" alt="17674587283421672758833138877544" src="https://github.com/user-attachments/assets/15eb1cc3-65d1-4ca3-b883-a1c34b7e12b8" />
 
 
+![17674593551654818933833399562148](https://github.com/user-attachments/assets/973da1d6-e430-43e1-8b02-ea112d284ff1)
 
 
 
