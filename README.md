@@ -50,10 +50,6 @@ To analyze marketing campaign performance, user engagement, and ROI across multi
 - ‎Filters the data for a specific month.
 
 
-
-<img width="907" height="505" alt="17674604670427401299842758378252" src="https://github.com/user-attachments/assets/c09ccb57-ebf9-4701-9f56-5d5d74fa3fc3" />
-
-
 ### Findings
 
 - Gender Distribution: Male and female engagement is nearly equal.
