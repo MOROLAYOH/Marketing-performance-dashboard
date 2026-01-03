@@ -44,6 +44,7 @@ To analyze marketing campaign performance, user engagement, and ROI across multi
 - ‎Mom change vs previous month 
 - ‎Weekly engagement 
 ‎
+<img width="907" height="505" alt="17674585693506160101597129129006" src="https://github.com/user-attachments/assets/f6444531-7636-4e8b-95f9-29ae91acee6a" />
 
 
 
