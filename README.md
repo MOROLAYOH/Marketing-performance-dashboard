@@ -43,8 +43,10 @@ To analyze marketing campaign performance, user engagement, and ROI across multi
 - ‎Clicks 109.95M 
 - ‎Mom change vs previous month 
 - ‎Weekly engagement 
-‎
-<img width="907" height="505" alt="17674585693506160101597129129006" src="https://github.com/user-attachments/assets/f6444531-7636-4e8b-95f9-29ae91acee6a" />
+
+<img width="907" height="505" alt="17674587283421672758833138877544" src="https://github.com/user-attachments/assets/15eb1cc3-65d1-4ca3-b883-a1c34b7e12b8" />
+
+
 
 
 
